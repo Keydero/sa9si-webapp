@@ -8,6 +8,7 @@ script:
   - docker run -e CI=true keyproco/sa9si-webapp  npm run test
 deploy:
   provider: elasticbeanstalk
+  edge: true
   region: "us-east-1"
   app: "sa9si-webapp"
   env: "Sa9siWebapp-env"
