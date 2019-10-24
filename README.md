@@ -1,3 +1,6 @@
+https://travis-ci.com/Keyproco/sa9si-webapp.svg?token=2LpC9XYX8bidkyycS38k&branch=master
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
